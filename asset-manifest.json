@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kitesndarts/static/css/main.c87accb8.css",
+    "main.js": "/kitesndarts/static/js/main.5c424488.js",
+    "static/media/Switzer-Semibold.otf": "/kitesndarts/static/media/Switzer-Semibold.cc12cb721b7b0bcca885.otf",
+    "index.html": "/kitesndarts/index.html",
+    "main.c87accb8.css.map": "/kitesndarts/static/css/main.c87accb8.css.map",
+    "main.5c424488.js.map": "/kitesndarts/static/js/main.5c424488.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c87accb8.css",
+    "static/js/main.5c424488.js"
+  ]
+}
