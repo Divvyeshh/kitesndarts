@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/kitesndarts/static/css/main.604a91b5.css",
-    "main.js": "/kitesndarts/static/js/main.5c424488.js",
+    "main.css": "/kitesndarts/static/css/main.91d71594.css",
+    "main.js": "/kitesndarts/static/js/main.417503b1.js",
     "static/media/Switzer-Semibold.otf": "/kitesndarts/static/media/Switzer-Semibold.cc12cb721b7b0bcca885.otf",
+    "static/media/Switzer-Thin.otf": "/kitesndarts/static/media/Switzer-Thin.2bd03fea10497d459795.otf",
+    "static/media/Outfit-Regular.otf": "/kitesndarts/static/media/Outfit-Regular.736be0e28659e3dde902.otf",
     "index.html": "/kitesndarts/index.html",
-    "main.604a91b5.css.map": "/kitesndarts/static/css/main.604a91b5.css.map",
-    "main.5c424488.js.map": "/kitesndarts/static/js/main.5c424488.js.map"
+    "main.91d71594.css.map": "/kitesndarts/static/css/main.91d71594.css.map",
+    "main.417503b1.js.map": "/kitesndarts/static/js/main.417503b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.604a91b5.css",
-    "static/js/main.5c424488.js"
+    "static/css/main.91d71594.css",
+    "static/js/main.417503b1.js"
   ]
 }
